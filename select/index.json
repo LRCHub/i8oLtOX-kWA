@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "鳥にでもなりたい",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-16T18:51:04.244555Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鳥にでもなりたい",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_鳥にでもなりたい_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "鳥にでもなりたい",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_鳥にでもなりたい_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "鳥にでもなりたい",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_鳥にでもなりたい_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "鳥にでもなりたい",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_鳥にでもなりたい_米津玄師.txt"
+    }
+  ]
+}
